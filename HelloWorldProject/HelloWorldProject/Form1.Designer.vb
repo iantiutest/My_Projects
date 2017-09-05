@@ -46,10 +46,10 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.Button2.BackColor = System.Drawing.Color.LightPink
         Me.Button2.ForeColor = System.Drawing.Color.Red
         Me.Button2.Location = New System.Drawing.Point(326, 145)
-        Me.Button2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(2)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(82, 20)
         Me.Button2.TabIndex = 2
