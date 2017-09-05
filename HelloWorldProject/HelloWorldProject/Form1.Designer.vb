@@ -46,8 +46,8 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.BackColor = System.Drawing.Color.LightPink
-        Me.Button2.ForeColor = System.Drawing.Color.Red
+        Me.Button2.BackColor = System.Drawing.Color.LIGHTCYAN
+        Me.Button2.ForeColor = System.Drawing.Color.DODGERBLUE
         Me.Button2.Location = New System.Drawing.Point(326, 145)
         Me.Button2.Margin = New System.Windows.Forms.Padding(2)
         Me.Button2.Name = "Button2"
